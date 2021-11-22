@@ -25,8 +25,8 @@
   * apples
   * banananaa
 
-1.  vegetables
-     1.potato
-     2.carrot
-     3.drumstick 
+ 1. vegetables
+    1.potato
+    2.carrot
+    3.drumstick 
   
