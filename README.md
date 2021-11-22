@@ -21,6 +21,6 @@
 ![image](https://getmyuni.azureedge.net/college-image/big/velagapudi-ramakrishna-siddhartha-engineering-college-vrsec-vijayawada.jpg)
 
 * FRUITS
- * MANGOES
- * apples
- * banananaa
+  * MANGOES
+  * apples
+  * banananaa
