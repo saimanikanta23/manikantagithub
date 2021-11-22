@@ -13,3 +13,5 @@
 **bold type sentence**
 
 ***both bold and italic***
+
+[Google](https://www.google.com)
