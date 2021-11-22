@@ -5,5 +5,11 @@
 #### this is 4th repositary
 ##### this is 5th
 ###### this is 6th
+
 ####### this is 7th
+
 *italic type sentence*
+
+**bold type sentence**
+
+***both bold and italic***
